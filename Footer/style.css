@@ -1,0 +1,75 @@
+.container-fluid {
+	background-image: url(http://localhost/Assignment2/img/Back2-min.jpg);
+	padding: 50px;
+}
+.head {
+	font-size: x-large;
+	text-align: center;
+	background-color: black;
+	border-radius: 5px 5px 0px 0px;
+}
+div {
+	
+	color: white;
+}
+.col-md-3 {
+	border: 1px solid black;
+	padding: 10px;
+	width: 100px;
+
+}
+p {
+	font-size: 80%;
+	text-align: left;
+}
+.well {
+	padding: 40px;
+}
+.content {
+	background-color: rgb(243,243,243);
+	font-size: x-large;
+	color: black;
+	text-align: center;
+	border-radius: 0px 0px 5px 5px;
+}
+.btn {
+	background-color: rgb(60,60,60);
+	color: white;
+}
+.btn:hover,.btn:focus,.btn:visited {
+	background-color: black;
+	color: white;
+}
+.foot {
+	padding: 10px;
+}
+.btn-lg {
+	color: white;
+}
+.btn-lg:hover,.btn-lg:focus,.btn-lg:visited {
+	color: black;
+	text-decoration: none;
+}
+i {
+	padding: 10px;
+	text-decoration: none;
+}
+a:hover {text-decoration: none;}
+.big-icon {
+	text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.big-icon:hover {
+	text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+.col-md-7 {
+	border: 1px solid white;
+	color: white;
+	text-align: center;
+	border-radius: 10px;
+	padding: 5px;
+}
+.fa-copyright {color: white;}
