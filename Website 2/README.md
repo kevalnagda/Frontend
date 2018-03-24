@@ -1,1 +1,1 @@
-This website was developed for growth associates using html and CSS.
+This website was developed for Growth Associates using html and CSS.
