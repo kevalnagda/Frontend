@@ -1,0 +1,56 @@
+figure {
+        padding: 5px 0px 0px 5px;
+        color: rgb(70,70,200);
+}
+div {
+	background-color: rgb(220,250,220);
+    font-family: Raleway;
+    font-weight: bold;
+    color: rgb(220,20,20);
+}
+h5 {
+	padding: 10px 5px 0px 10px;
+	font-family: Raleway;
+	font-weight: bold;
+}
+p {
+	padding: 0px 5px 0px 10px;
+	color: black;
+	font-family: Raleway;
+	display: inline;
+}
+hr { 
+	border: 0;
+	width: 96%;
+	color: black;
+	height :1px;
+} 
+img { width: 100%; }
+#sm.imgs {
+	float: left;
+	width: 50%;
+	padding: 10px
+}
+.well {
+	background-color: rgb(220,220,220);
+	border-radius: 4px;
+	padding: 10px;
+}
+.medfon {font-size: 70%;}
+.bluefon {color: rgb(140,140,250);}
+.smfon {
+	font-size: 70%;
+	display: inline-block;
+}
+.darkback {background-color: black;
+	height: 120px;
+	padding: 10px;}
+.whitefon {
+	color: white;
+	font-size: smaller;
+	padding: 2px;
+}
+.cenfon {
+	 color: black;
+	 text-align: center;
+}
